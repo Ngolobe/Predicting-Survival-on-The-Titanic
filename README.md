@@ -1,0 +1,2 @@
+# Predicting-Survival-on-The-Titanic
+The type of machine learning we will be doing is called classification, because when we make predictions we are classifying each passenger as a survivor or not. More specifically, we are performing binary classification, which means that there are only two different states we are classifying. Also, we're going to explore a workflow to make competing in the Kaggle Titanic competition easier, using a **pipeline** of functions to reduce the number of dimensions you need to focus on.
